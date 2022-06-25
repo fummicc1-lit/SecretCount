@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SecretCount
-//
-//  Created by Fumiya Tanaka on 2022/06/17.
-//
-
 import UIKit
 
 @main
